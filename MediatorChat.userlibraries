@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-cli-1.4">
+    <archive path="C:/Users/jesus/Documents/NetBeansProjects/MediatorChat/libs/commons-cli-1.4.jar" />
+  </library>
+  <library name="commons-cli-1.4-javadoc" />
+  <library name="commons-cli-1.4-sources" />
+  <library name="commons-cli-1.4-test-sources" />
+  <library name="commons-cli-1.4-tests">
+    <archive path="C:/Users/jesus/Documents/NetBeansProjects/MediatorChat/libs/commons-cli-1.4-tests.jar" />
+  </library>
+  <library name="AbsoluteLayout">
+    <archive path="C:/Users/jesus/Documents/NetBeansProjects/MediatorChat/libs/AbsoluteLayout.jar" />
+  </library>
+  <library name="RSScaleLabel">
+    <archive path="C:/Users/jesus/Documents/NetBeansProjects/MediatorChat/libs/RSScaleLabel.jar" />
+  </library>
+</eclipse-userlibraries>
+

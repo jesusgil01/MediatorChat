@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/MediatorChat"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="commons-cli-1.4" value="project"/>
+		<level name="commons-cli-1.4-javadoc" value="project"/>
+		<level name="commons-cli-1.4-sources" value="project"/>
+		<level name="commons-cli-1.4-test-sources" value="project"/>
+		<level name="commons-cli-1.4-tests" value="project"/>
+		<level name="AbsoluteLayout" value="project"/>
+		<level name="RSScaleLabel" value="project"/>
+	</levels>
+</component>
